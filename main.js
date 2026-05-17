@@ -10,7 +10,7 @@ for(let i = 1; i <= count; i++){
 
     square.innerText = i;
 
-    // разные цвета как на скрине
+    
     if(i % 3 === 1){
         square.style.background = "#b80d14";
     }
